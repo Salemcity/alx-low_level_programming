@@ -11,7 +11,6 @@
  * Return: a pointer to the allocated memory
  */
 void *malloc_checked(unsigned int b)
-
 {
 
 void *ptr;
